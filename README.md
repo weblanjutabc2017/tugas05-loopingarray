@@ -1,4 +1,4 @@
-# Tugas 05 Perulangan dan Array #
+# Tugas 05 Perulangan #
 
 * Kerjakan tugas sesuai perintah yang ada pada file tugas05.pdf
 
