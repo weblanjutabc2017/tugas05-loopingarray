@@ -24,11 +24,11 @@
 	if((int) $_POST["marriage"] === 1) {
 		$marriage = "Married";
 		if($income <= 64000) $tax = $income/10;
-		else $tax = 6400+$income*25/100;
+		else $tax = 6400+($income-64000)*25/100;
 	} else {
 		$marriage = "Single";
 		if($income <= 32000) $tax = $income/10;
-		else $tax = 3200+$income*25/100;	
+		else $tax = 3200+($income-32000)*25/100;	
 	}
 	
 ?>
