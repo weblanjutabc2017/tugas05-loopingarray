@@ -3,3 +3,6 @@ NIM	: 16/401045/SV/11549
 Kelas	: Praktikum AB
 
 Tugas-05
+
+Note:
+tadi di git config --list tidak dilihat user name yang kemarin digunakan, dan ternyata belum diganti, dan sekarang pakai akun saya pribadi untuk commit dan pushnya.
