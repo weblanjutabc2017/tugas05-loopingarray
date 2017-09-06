@@ -25,7 +25,7 @@ if ($status == "Single"){
 	if($income > 0 && $income < 32000){
 		$jum = 0.10 * $income;
 	}else if($income > 32000){
-		$jum = 3200 + (($income - 32000)*0.25);
+		$jum = 3200 + (($income - 3200)*0.25);
 	}else{
 		$jum = 0;
 	}
