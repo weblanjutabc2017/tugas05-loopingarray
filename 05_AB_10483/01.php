@@ -1,4 +1,4 @@
-//Nama: Daniel Siddiq
+//Nama: Daniel Siddiq//
 //NIM : 16/396270/SV/10483
 <?php
 	$sum=0;
